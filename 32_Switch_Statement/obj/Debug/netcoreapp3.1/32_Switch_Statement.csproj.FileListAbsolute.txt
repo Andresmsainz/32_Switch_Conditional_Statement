@@ -1,0 +1,14 @@
+C:\SRC\CSharp\32_Switch_Statement\32_Switch_Statement\bin\Debug\netcoreapp3.1\32_Switch_Statement.exe
+C:\SRC\CSharp\32_Switch_Statement\32_Switch_Statement\bin\Debug\netcoreapp3.1\32_Switch_Statement.deps.json
+C:\SRC\CSharp\32_Switch_Statement\32_Switch_Statement\bin\Debug\netcoreapp3.1\32_Switch_Statement.runtimeconfig.json
+C:\SRC\CSharp\32_Switch_Statement\32_Switch_Statement\bin\Debug\netcoreapp3.1\32_Switch_Statement.runtimeconfig.dev.json
+C:\SRC\CSharp\32_Switch_Statement\32_Switch_Statement\bin\Debug\netcoreapp3.1\32_Switch_Statement.dll
+C:\SRC\CSharp\32_Switch_Statement\32_Switch_Statement\bin\Debug\netcoreapp3.1\32_Switch_Statement.pdb
+C:\SRC\CSharp\32_Switch_Statement\32_Switch_Statement\obj\Debug\netcoreapp3.1\32_Switch_Statement.csproj.AssemblyReference.cache
+C:\SRC\CSharp\32_Switch_Statement\32_Switch_Statement\obj\Debug\netcoreapp3.1\32_Switch_Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\SRC\CSharp\32_Switch_Statement\32_Switch_Statement\obj\Debug\netcoreapp3.1\32_Switch_Statement.AssemblyInfoInputs.cache
+C:\SRC\CSharp\32_Switch_Statement\32_Switch_Statement\obj\Debug\netcoreapp3.1\32_Switch_Statement.AssemblyInfo.cs
+C:\SRC\CSharp\32_Switch_Statement\32_Switch_Statement\obj\Debug\netcoreapp3.1\32_Switch_Statement.csproj.CoreCompileInputs.cache
+C:\SRC\CSharp\32_Switch_Statement\32_Switch_Statement\obj\Debug\netcoreapp3.1\32_Switch_Statement.dll
+C:\SRC\CSharp\32_Switch_Statement\32_Switch_Statement\obj\Debug\netcoreapp3.1\32_Switch_Statement.pdb
+C:\SRC\CSharp\32_Switch_Statement\32_Switch_Statement\obj\Debug\netcoreapp3.1\32_Switch_Statement.genruntimeconfig.cache
